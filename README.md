@@ -97,7 +97,10 @@ Execute analytical tasks.
 Visualize analytical results using Zeppelin.
 Interpret findings and summarize insights.
 
-<img width="911" height="1024" alt="image" src="https://github.com/user-attachments/assets/399ef8d0-7e76-4e0e-a87d-50a19be725a7" />
+
+
+<img width="401" height="800" alt="image" src="https://github.com/user-attachments/assets/e70b1ae6-fd82-4f3e-9fed-518a68cbbee8" />
+
 
 Analytical Tasks
 ----------------
