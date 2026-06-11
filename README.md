@@ -6,9 +6,9 @@ Data Management Assignment 2
 MovieLens Analytics using Apache Zeppelin and Cassandra
 Student Information
 ----------------------------------------------------------------------------------------------------------------------------
-Name: Shukeri
+Name: Shukeri Jusoh (P156824)
 
-Course: Data Management
+Course: Data Management (STQD6324)
 
 Program: Master of Data Science & Analytics
 
