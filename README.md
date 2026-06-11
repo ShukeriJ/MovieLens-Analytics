@@ -1,5 +1,6 @@
 
-<img width="851" height="226" alt="movielens" src="https://github.com/user-attachments/assets/7e2fb73d-6f80-45b8-ae8e-3a28ededc8db" />
+<img width="497" height="146" alt="movielens" src="https://github.com/user-attachments/assets/c8b49e0c-81a5-4041-9a8a-66ef8bd46dea" />
+
 
 Data Management Assignment 2
 MovieLens Analytics using Apache Zeppelin and Cassandra
