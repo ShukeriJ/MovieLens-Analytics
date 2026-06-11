@@ -1,6 +1,32 @@
 
 <img width="497" height="146" alt="movielens" src="https://github.com/user-attachments/assets/c8b49e0c-81a5-4041-9a8a-66ef8bd46dea" />
 
+# 🎬 MovieLens Analytics Pipeline
+
+Apache Spark + Hadoop HDFS + Cassandra Analytics Project
+
+![Spark](https://img.shields.io/badge/Apache-Spark-orange)
+![Hadoop](https://img.shields.io/badge/Hadoop-HDFS-yellow)
+![Cassandra](https://img.shields.io/badge/Cassandra-NoSQL-blue)
+![Python](https://img.shields.io/badge/Python-3.8-green)
+
+## 📑 Table of Contents
+
+- Project Overview
+- Dataset Description
+- Dataset Statistic
+- Technology Stack
+- Project Workflow
+- Analytical Tasks
+    - Task 1
+    - Task 2
+    - Task 3
+    - Task 4
+    - Task 5
+- Visulaization
+- Challenges Encountered
+- Result Summary
+- Conclusion
 
 Data Management Assignment 2
 MovieLens Analytics using Apache Zeppelin and Cassandra
@@ -24,15 +50,11 @@ This project demonstrates the use of Apache Spark to analyze the MovieLens 100K 
 
 Apache Zeppelin was used as the interactive analytics environment, while PySpark was used to perform data transformation, aggregation, filtering, and analytical operations.
 
-<img width="854" height="455" alt="hadoop logo" src="https://github.com/user-attachments/assets/a725f300-7f45-4ed0-bd39-fa288aae084b" /> 
-<img width="462" height="342" alt="zeppelin" src="https://github.com/user-attachments/assets/89f6911e-60bb-4407-89e7-e3c5be9a3ac3" />
-<img width="469" height="313" alt="cassandra" src="https://github.com/user-attachments/assets/655d0ac5-3cf5-4f52-966a-180b347fbcab" />
-
 Dataset Description
 -------------------
 The dataset can be download here : https://grouplens.org/datasets/movielens/100k/
 
-The MovieLens 100K dataset contains movie ratings collected from users and consists of three primary files:
+The MovieLens 100K dataset contains movie ratings collected from users and consists of three (3) primary files:
 
 u.data	> User movie ratings
 
@@ -42,22 +64,29 @@ u.item	> Movie information and genre categories
 
 Dataset Statistics
 ------------------
-Item	               Count
 
-Ratings            	100,003
+| Item | Count |
+|------------|----------|
+| Ratings | 100,003 |
+| Users | 943 |
+| Movies | 1,682 |
 
-Users	                 943
+## 🛠 Technology Stack
+-----------------------
+| Technology | Purpose |
+|------------|----------|
+| Apache Hadoop | Distributed Storage (HDFS) |
+| Apache Spark | Data Processing |
+| Apache Zeppelin | Interactive Analytics |
+| Apache Cassandra | NoSQL Storage |
 
-Movies	             1,682
 
-Technologies Used
------------------
-Apache Spark 2.3
-Apache Zeppelin
-Hadoop HDFS
-PySpark
-Hortonworks Data Platform (HDP 2.6.5)
-Linux (CentOS 7)
+<p align="center">
+  <img width="337" height="180" alt="hadoop logo" src="https://github.com/user-attachments/assets/a725f300-7f45-4ed0-bd39-fa288aae084b" /> 
+  <img width="344" height="180" alt="image" src="https://github.com/user-attachments/assets/0b2d2290-af73-411c-8947-24a997e1854d" />
+  <img width="243" height="180" alt="zeppelin" src="https://github.com/user-attachments/assets/89f6911e-60bb-4407-89e7-e3c5be9a3ac3" />
+  <img width="135" height="90" alt="cassandra" src="https://github.com/user-attachments/assets/655d0ac5-3cf5-4f52-966a-180b347fbcab" />
+</p>
 
 Project Workflow
 ----------------
@@ -141,14 +170,6 @@ The analysis identified users whose occupation is recorded as scientist and whos
 Visualizations
 --------------
 The analytical results were visualized using Apache Zeppelin's built-in visualization tools.
-
-Favourite Genre Distribution
-----------------------------
-The visualization shows the distribution of favourite genres among active users.
-
-Observation
------------
-Drama dominates user preferences with 372 active users selecting it as their favourite genre, followed by Comedy (102 users) and Action (72 users).
 
 Challenges Encountered
 ----------------------
