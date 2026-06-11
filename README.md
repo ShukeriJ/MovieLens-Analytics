@@ -1,5 +1,4 @@
-
-<img width="497" height="146" alt="movielens" src="https://github.com/user-attachments/assets/c8b49e0c-81a5-4041-9a8a-66ef8bd46dea" />
+<img width="340" height="100" alt="movielens" src="https://github.com/user-attachments/assets/c8b49e0c-81a5-4041-9a8a-66ef8bd46dea" />
 
 # 🎬 MovieLens Analytics Pipeline
 
@@ -40,8 +39,6 @@ Program: Master of Data Science & Analytics
 
 Platform: Hortonworks Data Platform (HDP 2.6.5)
 
-
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Project Overview
@@ -81,12 +78,11 @@ Dataset Statistics
 | Apache Cassandra | NoSQL Storage |
 
 
-<p align="center">
+
   <img width="337" height="180" alt="hadoop logo" src="https://github.com/user-attachments/assets/a725f300-7f45-4ed0-bd39-fa288aae084b" /> 
   <img width="344" height="180" alt="image" src="https://github.com/user-attachments/assets/0b2d2290-af73-411c-8947-24a997e1854d" />
   <img width="243" height="180" alt="zeppelin" src="https://github.com/user-attachments/assets/89f6911e-60bb-4407-89e7-e3c5be9a3ac3" />
   <img width="135" height="90" alt="cassandra" src="https://github.com/user-attachments/assets/655d0ac5-3cf5-4f52-966a-180b347fbcab" />
-</p>
 
 Project Workflow
 ----------------
@@ -97,9 +93,7 @@ Execute analytical tasks.
 Visualize analytical results using Zeppelin.
 Interpret findings and summarize insights.
 
-
-
-<img width="401" height="800" alt="image" src="https://github.com/user-attachments/assets/e70b1ae6-fd82-4f3e-9fed-518a68cbbee8" />
+<img width="714" height="474" alt="Screenshot 2026-06-12 012551" src="https://github.com/user-attachments/assets/9d912e83-d6a5-4d33-a0c5-f3ee74eb3b2f" />
 
 
 Analytical Tasks
@@ -107,6 +101,8 @@ Analytical Tasks
 
 Task (i): Average Rating for Each Movie
 ---------------------------------------
+<img width="346" height="257" alt="image" src="https://github.com/user-attachments/assets/15017361-2733-45d0-9c08-ef2a0ecc823d" />
+
 The average rating for each movie was calculated using all available user ratings.
 
 <img width="529" height="262" alt="Task1_average_rating" src="https://github.com/user-attachments/assets/746f4d7d-3d59-4856-9e77-2ce4c97f7e8b" />
