@@ -1,3 +1,6 @@
+
+<img width="851" height="226" alt="movielens" src="https://github.com/user-attachments/assets/7e2fb73d-6f80-45b8-ae8e-3a28ededc8db" />
+
 Data Management Assignment 2
 MovieLens Analytics using Apache Zeppelin and Cassandra
 Student Information
@@ -10,13 +13,19 @@ Program: Master of Data Science & Analytics
 
 Platform: Hortonworks Data Platform (HDP 2.6.5)
 
-----------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 Project Overview
 ----------------
 This project demonstrates the use of Apache Spark to analyze the MovieLens 100K dataset. The objective is to process movie ratings and user demographic data stored in Hadoop Distributed File System (HDFS) and generate meaningful insights through distributed data processing.
 
 Apache Zeppelin was used as the interactive analytics environment, while PySpark was used to perform data transformation, aggregation, filtering, and analytical operations.
+
+<img width="854" height="455" alt="hadoop logo" src="https://github.com/user-attachments/assets/a725f300-7f45-4ed0-bd39-fa288aae084b" /> 
+<img width="462" height="342" alt="zeppelin" src="https://github.com/user-attachments/assets/89f6911e-60bb-4407-89e7-e3c5be9a3ac3" />
+<img width="469" height="313" alt="cassandra" src="https://github.com/user-attachments/assets/655d0ac5-3cf5-4f52-966a-180b347fbcab" />
 
 Dataset Description
 -------------------
