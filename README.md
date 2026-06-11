@@ -118,6 +118,9 @@ Task (ii): Top 10 Highest Rated Movies
 --------------------------------------
 Movies were ranked based on their average ratings to identify the highest-rated titles.
 
+<img width="246" height="364" alt="image" src="https://github.com/user-attachments/assets/fff66e0c-1554-4b4e-8724-f20c62f13227" />
+
+
 <img width="512" height="209" alt="Task2_top10_highest rating" src="https://github.com/user-attachments/assets/bed98075-d4fe-4d32-9b35-05c24cb35df5" />
 
 <img width="1887" height="767" alt="Task2_top10_highest rating_visualization" src="https://github.com/user-attachments/assets/b6d4d77e-1ed3-40e9-a6e7-d9577c5151da" />
@@ -131,6 +134,9 @@ The results show the ten movies with the highest average ratings. Movies with co
 Task (iii): Active Users and Favourite Genres
 ---------------------------------------------
 Users who rated at least 50 movies were classified as active users. Their favourite genre was determined based on the genre they rated most frequently.
+
+<img width="237" height="206" alt="image" src="https://github.com/user-attachments/assets/1b3f969c-3a2d-4c6e-9f86-5812787c6217" />
+
 
 <img width="275" height="266" alt="Task3_activeuser_favgenre" src="https://github.com/user-attachments/assets/d39a6f00-4996-41c3-bcd4-8b8b9375178b" />
 
